@@ -1,3 +1,5 @@
-# Grad-School-Admission-Predictor
+# Can You Get in? - GradSchool Admission Predictor
 
-### Dataset used: https://github.com/deedy/gradcafe_data
+#### Dataset used: https://github.com/deedy/gradcafe_data
+#### To run the notebook, you need to download all.csv from the above link
+#### Read the report (report.pdf) to learn more
